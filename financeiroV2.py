@@ -4,6 +4,7 @@
 #github: rgtech
 #Controle simples de despesas pessoais
 #Made and tested with python version : 3.11.9
+#License: MIT
 
 try:
 
